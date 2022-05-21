@@ -30,13 +30,13 @@ namespace GLMNet_CSNC
         /// The matrix is initialised with the <paramref name="_cols"/>.
         /// </summary>
         /// <param name="_cols">The colums of the matrix.</param>
-        public Mat3(Vec3[] _cols)
+        public Mat3(Vec3[] cols)
         {
             this._cols = new[]
             {
-                _cols[0],
-                _cols[1],
-                _cols[2]
+                cols[0],
+                cols[1],
+                cols[2]
             };
         }
 

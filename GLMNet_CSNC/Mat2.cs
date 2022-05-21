@@ -29,12 +29,12 @@ namespace GLMNet_CSNC
         /// The matrix is initialised with the <paramref name="_cols"/>.
         /// </summary>
         /// <param name="_cols">The colums of the matrix.</param>
-        public Mat2(Vec2[] _cols)
+        public Mat2(Vec2[] cols)
         {
             this._cols = new[]
             {
-                _cols[0],
-                _cols[1]
+                cols[0],
+                cols[1]
             };
         }
 
