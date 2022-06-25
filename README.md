@@ -1,4 +1,4 @@
-# GLMathCSharp (GLMNet with C# Name Convention)
+# GLMathCSharp (GlmNet with C# Name Convention)
 Forked from [GlmNet 0.7.0](https://github.com/dwmkerr/glmnet) now.
 
 All implementation are same as GlmNet but modified to name convention of C#, This repository will update if GlmNet have any change.
