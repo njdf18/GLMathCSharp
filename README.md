@@ -7,3 +7,5 @@ Please refer to README of GlmNet if you want to know more information.
 
 ## Installation
 [![Nuget Badge](https://img.shields.io/nuget/v/GLMathCSharp)](https://www.nuget.org/packages/GLMathCSharp/)
+or
+Just putting "GLMathCSharp 0.7.0" folder into your project
